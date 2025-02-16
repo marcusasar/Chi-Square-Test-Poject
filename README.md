@@ -11,7 +11,7 @@ The dataset used is based on a survey of 122 people, where we observe their **ge
 - **Alternative Hypothesis (H₁)**: There is relationship between gender and frequency of visits.
 
 ## Results:
-After performing the Chi-Square Test, the p-value was found to be **0.238** (greater than 0.05), so we **fail to reject the null hypothesis**, indicating that there is **no significant relationship** between gender and frequency of visits.
+After performing the Chi-Square Test, the p-value was found to be **0.1599** (greater than 0.05), so we **fail to reject the null hypothesis**, indicating that there is **no significant relationship** between gender and frequency of visits.
 
 ## Files:
 - `chi_square_analysis.ipynb`: Jupyter notebook containing the code and analysis.
