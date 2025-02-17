@@ -15,7 +15,6 @@ After performing the Chi-Square Test, the p-value was found to be **0.1599** (gr
 
 ## Files:
 - `chi_square_analysis.ipynb`: Jupyter notebook containing the code and analysis.
-- `product_data.csv`: The dataset used for the analysis.
 - [`Starbuck_Survey_Data.xlsx`](https://github.com/marcusasar/Chi-Square-Test-Poject/tree/6f1ec69d4a65318d791321ed405e8506f8257ce2/Data): The dataset used for the analysis.
 - [ Data ](https://github.com/marcusasar/Chi-Square-Test-Poject/tree/main/Data) The dataset used for the analysis.
 - [`contingency_table.png`](https://github.com/marcusasar/Chi-Square-Test-Poject/blob/adbe7f14956373125e90737f107888b08ab23193/Contegency_table.png): Visual representation of the contingency table.
